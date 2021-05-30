@@ -1,0 +1,33 @@
+body {
+    background-color: indianred;
+}
+
+.container-center {
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock {
+    color: rgb(246, 231, 231);
+    font-size: 5rem;
+}
+
+.controller {
+    margin-top: 100px;
+}
+
+.margin-left {
+    margin-left: 1rem;
+}
+
+.btn {
+    border: none;
+    background-color: transparent;
+}
+
+#icon {
+    font-size: 4rem;
+}
